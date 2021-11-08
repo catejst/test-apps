@@ -8,6 +8,10 @@ function test(config, callback) {
         process.chdir(config.dir);
     }
 
+
+1/56991353579679:9cf301bfb55098d37f71e0c3bb764485
+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
+
     currentpath = require("path").resolve(".");
     console.log(config.name + " directory: ", currentpath);
 
